@@ -1,0 +1,17 @@
+Without normalisation:
+
+Madhya Pradesh         Sikkim        Tripura      Jharkhand       Goa 
+            1           2            3             4              5
+
+
+
+
+With z-score normalisation:
+
+Madhya Pradesh      Jharkhand         Punjab          Goa      Uttarakhand 
+            1             2             3             4             5 
+
+
+
+
+

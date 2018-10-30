@@ -1,0 +1,26 @@
+DEMOGRAPHY
+Correlation between following attributes > 0.95 (2 pairs)
+Conclusion - 2 pairs out of 153 possible pairs have correlation > 0.95, hence there is not much redundancy.
+
+
+ECONOMY
+Correlation between following attributes > 0.95 (238 pairs)
+Conclusion - 238 out of 861 possible pairs have correlation > 0.95. Hence there is significant amount of redundancy.
+
+
+EDUCATION
+Correlation between following attributes > 0.95 (497 pairs)
+Conclusion - 497 out of 43956 have correlation > 0.95. Hence there is negligible redundancy.
+
+
+ACROSS CATEGORIES
+Correlation between following attributes > 0.95 (737 pairs)
+Conclusion - 737 pairs out of 63546 have correlation > 0.95. Hence there is almost no redundancy.
+
+
+Another interesting conclusion is that the attributes having correlation > 0.95 across categories is equal to sum of individual categories 
+737 = 497 + 238 + 2
+This implies that there are no attributes across categories which have correlation > 0.95
+
+
+

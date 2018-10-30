@@ -1,0 +1,12 @@
+1. The data was cleaned
+   a. The States/ UTs were sorted in a common format.
+   b. Name format of all states/UTs was made uniform (case, spaces etc) 
+   c. New states (Telangana) were added.
+
+2. The data format of Economy and Education categories was changed and data was formatted properly according to state/UT names.
+
+3. All the categorical data was merged into one common csv file. 
+
+4. The NA values of an attribute was replaced by the average of classes in same region (ie north ,south ,east ,west etc) as referenced in the regions.csv file.
+
+ 
